@@ -1,0 +1,5 @@
+opencv-python
+mediapipe
+numpy
+imread_from_url
+cap_from_youtube
